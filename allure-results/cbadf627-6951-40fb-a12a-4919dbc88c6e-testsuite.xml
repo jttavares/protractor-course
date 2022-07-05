@@ -1,0 +1,61 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1656991140860' stop='1656991164090'>
+    <name>demo calculator</name>
+    <title>demo calculator</title>
+    <test-cases>
+        <test-case start='1656991140861' status='undefined'>
+            <name>addition test</name>
+            <title>addition test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1656991140861' status='passed' stop='1656991148619'>
+            <name>addition test</name>
+            <title>addition test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='546c58bf-0cc0-44ae-b59a-d3a5d303ddcc-attachment.png' type='image/png' size='16231'/>
+            </attachments>
+        </test-case>
+        <test-case start='1656991148619' status='undefined'>
+            <name>second addition test</name>
+            <title>second addition test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1656991148619' status='passed' stop='1656991156413'>
+            <name>second addition test</name>
+            <title>second addition test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='afbc24a8-415d-4aa7-bb01-bd2be4e460f6-attachment.png' type='image/png' size='15335'/>
+            </attachments>
+        </test-case>
+        <test-case start='1656991156413' status='undefined'>
+            <name>third addition test</name>
+            <title>third addition test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1656991156413' status='passed' stop='1656991164089'>
+            <name>third addition test</name>
+            <title>third addition test</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='d56c807b-2f61-4ee9-ac22-60c266a9f34b-attachment.png' type='image/png' size='15818'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
